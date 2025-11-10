@@ -1,0 +1,9 @@
+[submodule "image_as_imu"]
+	path = image_as_imu
+	url = https://github.com/jerredchen/image-as-an-imu.git
+[submodule "depthai-core"]
+	path = depthai-core
+	url = https://github.com/luxonis/depthai-core.git
+[submodule "RS-Diffusion"]
+	path = RS-Diffusion
+	url = https://github.com/lhaippp/RS-Diffusion.git
